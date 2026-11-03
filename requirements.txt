@@ -1,0 +1,4 @@
+
+# Python Banking Management System
+# No external libraries required
+# Uses Python built-in features only
